@@ -163,7 +163,7 @@ function PlanetaryProductionPage() {
         max={1.0}
         min={-1.0}
         onChange={(event, value) => setSecurityRange(value)}
-        step={0.1}
+        step={0.01}
         value={securityRange}
       />
 
