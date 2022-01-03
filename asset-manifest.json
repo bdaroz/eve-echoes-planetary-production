@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.js": "/eve-echoes-planetary-production/static/js/main.3a81eb57.chunk.js",
-    "main.js.map": "/eve-echoes-planetary-production/static/js/main.3a81eb57.chunk.js.map",
+    "main.js": "/eve-echoes-planetary-production/static/js/main.7bcfdf6d.chunk.js",
+    "main.js.map": "/eve-echoes-planetary-production/static/js/main.7bcfdf6d.chunk.js.map",
     "runtime-main.js": "/eve-echoes-planetary-production/static/js/runtime-main.675e2ad0.js",
     "runtime-main.js.map": "/eve-echoes-planetary-production/static/js/runtime-main.675e2ad0.js.map",
-    "static/js/2.4420a012.chunk.js": "/eve-echoes-planetary-production/static/js/2.4420a012.chunk.js",
-    "static/js/2.4420a012.chunk.js.map": "/eve-echoes-planetary-production/static/js/2.4420a012.chunk.js.map",
+    "static/js/2.8baab985.chunk.js": "/eve-echoes-planetary-production/static/js/2.8baab985.chunk.js",
+    "static/js/2.8baab985.chunk.js.map": "/eve-echoes-planetary-production/static/js/2.8baab985.chunk.js.map",
     "index.html": "/eve-echoes-planetary-production/index.html",
-    "precache-manifest.d28fc06831b177a317a312df43b65b11.js": "/eve-echoes-planetary-production/precache-manifest.d28fc06831b177a317a312df43b65b11.js",
+    "precache-manifest.344b28eb40a77f57d9fef8edd9f54479.js": "/eve-echoes-planetary-production/precache-manifest.344b28eb40a77f57d9fef8edd9f54479.js",
     "service-worker.js": "/eve-echoes-planetary-production/service-worker.js",
-    "static/js/2.4420a012.chunk.js.LICENSE.txt": "/eve-echoes-planetary-production/static/js/2.4420a012.chunk.js.LICENSE.txt",
-    "static/js/query.e2b3e40a.worker.js": "/eve-echoes-planetary-production/static/js/query.e2b3e40a.worker.js",
-    "static/js/query.e2b3e40a.worker.js.map": "/eve-echoes-planetary-production/static/js/query.e2b3e40a.worker.js.map"
+    "static/js/2.8baab985.chunk.js.LICENSE.txt": "/eve-echoes-planetary-production/static/js/2.8baab985.chunk.js.LICENSE.txt",
+    "static/js/query.e863b833.worker.js": "/eve-echoes-planetary-production/static/js/query.e863b833.worker.js",
+    "static/js/query.e863b833.worker.js.map": "/eve-echoes-planetary-production/static/js/query.e863b833.worker.js.map"
   },
   "entrypoints": [
     "static/js/runtime-main.675e2ad0.js",
-    "static/js/2.4420a012.chunk.js",
-    "static/js/main.3a81eb57.chunk.js"
+    "static/js/2.8baab985.chunk.js",
+    "static/js/main.7bcfdf6d.chunk.js"
   ]
 }
